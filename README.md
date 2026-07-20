@@ -1,4 +1,21 @@
-# Scarlet II v1.0.0 — Modern B*
+<h1 align="center">Scarlet II v1.0.0 — Modern B*</h1>
+
+<p align="center">
+  <a href="https://github.com/Vpindur3000/Scarlet-II/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Vpindur3000/Scarlet-II?style=flat-square&label=release&color=B23A48" alt="Latest release">
+  </a>
+  <a href="https://github.com/Vpindur3000/Scarlet-II/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Vpindur3000/Scarlet-II?style=flat-square&color=3A7D44" alt="GPLv3 license">
+  </a>
+  <img src="https://img.shields.io/badge/language-C%2B%2B20-6C63A8?style=flat-square&logo=cplusplus&logoColor=white" alt="C++20">
+  <img src="https://img.shields.io/badge/search-Modern%20B*-C07A3D?style=flat-square" alt="Modern B* search">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/architecture-best--first%20DAG-4F6D7A?style=flat-square" alt="Best-first DAG">
+</p>
+
+
 
 Scarlet II is an experimental GPLv3 UCI chess engine built around a custom best-first, interval-based search inspired by the B* family of algorithms.
 

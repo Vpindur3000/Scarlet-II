@@ -1,0 +1,7 @@
+uci
+isready
+backend
+eval
+leelaprobe
+go depth 1
+quit

@@ -129,6 +129,24 @@ MinProofExpansions      24
 DebugModernBStar        false
 ```
 
+## Acknowledgements
+
+Scarlet II was developed with the help of the open-source computer-chess community and builds upon ideas, formats, tools, and research created by many other developers.
+
+Special thanks to:
+
+* [Berserk](https://github.com/jhonnold/berserk) by Jay Honnold — for the NNUE architecture and compatible evaluation networks used by Scarlet II.
+* [Lc0](https://github.com/LeelaChessZero/lc0) and the Leela Chess Zero community — for policy/value-network formats, tooling, and research into neural-network-guided search.
+* [Stockfish](https://github.com/official-stockfish/Stockfish) — for its major contributions to open-source chess-engine development, NNUE research, testing methodology, and UCI conventions.
+* [python-chess](https://github.com/niklasf/python-chess) — for chess tooling, testing, and analysis utilities used during development.
+* [Syzygy tablebases](https://github.com/syzygy1/tb) and their contributors — for endgame tablebase formats and research.
+* The [Chess Programming Wiki](https://www.chessprogramming.org/) and its contributors — for documenting decades of chess-programming algorithms, terminology, and engine-design ideas.
+* The authors and researchers behind B*, best-first search, proof-number search, PUCT, alpha-beta search, and related algorithms that inspired the experimental search architecture of Scarlet II.
+
+Scarlet II is an independent experimental engine. References to other projects indicate compatibility, inspiration, or use of externally supplied resources and do not imply endorsement, official affiliation, or direct authorship by those projects.
+
+Neural-network weights are not included in this repository or release. Users are responsible for obtaining compatible networks separately and complying with their respective licenses and terms.
+
 ## Strength claims
 
 This repository does not claim an official universal Elo rating. Any published
